@@ -1,0 +1,16 @@
+{
+  "name": "realself-assessment",
+  "version": "1.0.0",
+  "description": "Take-home test for Real Self",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "jest"
+  },
+  "author": "Nick Jurista",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
